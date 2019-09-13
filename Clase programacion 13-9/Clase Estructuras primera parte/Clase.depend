@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1568380817 source:c:\users\alumno\desktop\clase\biblioteca.c
+	"Biblioteca.h"
+
+1568381075 source:c:\users\alumno\desktop\clase\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
+1568380748 c:\users\alumno\desktop\clase\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1568380817 source:c:\users\alumno\desktop\clase estructuras\biblioteca.c
+	"Biblioteca.h"
+
+1568380748 c:\users\alumno\desktop\clase estructuras\biblioteca.h
+	<stdio.h>
+	<stdlib.h>
+
+1568381075 source:c:\users\alumno\desktop\clase estructuras\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Biblioteca.h"
+
